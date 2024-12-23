@@ -1,6 +1,6 @@
 # Sanity Studio
 
-The project works as a headless CMS for the indie-hackers-site ([https://indie-hackers.site](https://indie-hackers.site)), powered by [Sanity Studio](https://www.sanity.io/studio).
+The project works as a headless CMS for the indie-hackers-site ([https://indie-hackers.site](https://indie-hackers.site)).
 
 Website: [https://free-directory-web.vercel.app](https://free-directory-web.vercel.app)
 
