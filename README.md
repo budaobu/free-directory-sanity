@@ -48,9 +48,9 @@ Sanity Studio (backend, current repository): [https://free-directory-sanity.verc
 
 This project is created by [Javayhu](https://x.com/javay_hu), the founder of [Mkdirs](https://mkdirs.com), which is the best directory boilerplate for anyone who wants to launch a profitable directory website in minutes.
 
-If you are interested in indie hacking, please follow me on X: [https://x.com/javay_hu](https://x.com/javay_hu)
+If you are interested in indie hacking, please follow me on X: [@javay_hu](https://x.com/javay_hu)
 
-## Notices
+## Notice
 
 If you have any questions when using this project, please checkout the [docs of Mkidrs](https://docs.mkdirs.com) for more information, because they have almost the same tech stack.
 
