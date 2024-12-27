@@ -104,3 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Credits
 
 This project was inspired by [@miickasmt](https://twitter.com/miickasmt)'s [next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter)
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=javayhu/free-directory-sanity&type=Date)](https://star-history.com/#javayhu/free-directory-sanity&Date)
